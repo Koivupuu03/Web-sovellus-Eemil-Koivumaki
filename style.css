@@ -1,1 +1,34 @@
+/* Basic styles for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2986cc;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+}
+
+/* Button styling */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Result section styling */
+#result {
+    margin-top: 20px;
+}
 
